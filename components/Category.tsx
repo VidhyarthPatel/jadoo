@@ -13,7 +13,7 @@ export default function Category() {
                 </h2>
             </div>
 
-            <div className="flex justify-between items-center gap-8">
+            <div className="flex flex-wrap justify-center gap-8">
                 <div className="flex flex-col items-center text-center p-8 rounded-[36px] bg-white w-64 group">
                     <div className="w-20 h-20 mb-6 flex items-center justify-center">
                         <Image

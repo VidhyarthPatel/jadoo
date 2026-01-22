@@ -13,7 +13,7 @@ export default function Destinations() {
                 </h2>
             </div>
 
-            <div className="flex justify-between items-center gap-8">
+            <div className="flex flex-wrap justify-center gap-8">
 
                 <div className="bg-white rounded-[24px] shadow-lg overflow-hidden w-80">
                     <div className="h-80 w-full relative">
@@ -30,13 +30,13 @@ export default function Destinations() {
                             <span>$5,42k</span>
                         </div>
                         <div className="flex items-center text-[#5E6282] font-medium">
-                            <svg
-                                className="w-5 h-5 mr-2 text-black"
-                                fill="currentColor"
-                                viewBox="0 0 24 24"
-                            >
-                                <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z" />
-                            </svg>
+                            <Image
+                                src="/navigation 1.png"
+                                alt="Navigation"
+                                width={20}
+                                height={20}
+                                className="mr-2"
+                            />
                             <span>10 Days Trip</span>
                         </div>
                     </div>
@@ -58,13 +58,13 @@ export default function Destinations() {
                             <span>$4.2k</span>
                         </div>
                         <div className="flex items-center text-[#5E6282] font-medium">
-                            <svg
-                                className="w-5 h-5 mr-2 text-black"
-                                fill="currentColor"
-                                viewBox="0 0 24 24"
-                            >
-                                <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z" />
-                            </svg>
+                            <Image
+                                src="/navigation 1.png"
+                                alt="Navigation"
+                                width={20}
+                                height={20}
+                                className="mr-2"
+                            />
                             <span>12 Days Trip</span>
                         </div>
                     </div>
@@ -86,13 +86,13 @@ export default function Destinations() {
                             <span>$15k</span>
                         </div>
                         <div className="flex items-center text-[#5E6282] font-medium">
-                            <svg
-                                className="w-5 h-5 mr-2 text-black"
-                                fill="currentColor"
-                                viewBox="0 0 24 24"
-                            >
-                                <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z" />
-                            </svg>
+                            <Image
+                                src="/navigation 1.png"
+                                alt="Navigation"
+                                width={20}
+                                height={20}
+                                className="mr-2"
+                            />
                             <span>28 Days Trip</span>
                         </div>
                     </div>
