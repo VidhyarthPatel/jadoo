@@ -5,7 +5,7 @@ export default function Hero() {
         <section className="container mx-auto px-6 pt-32 pb-24 flex flex-col md:flex-row items-center">
             <div className="w-full md:w-1/2 text-center md:text-left mb-12 md:mb-0">
                 <h3 className="text-[#DF6951] font-bold text-xl uppercase mb-4">
-                    Best Destinations around the world
+                    Best Destinations around the world is Europe
                 </h3>
                 <h1 className="text-[#181E4B] font-serif text-5xl md:text-7xl font-bold leading-tight mb-6">
                     Travel, enjoy
